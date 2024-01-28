@@ -2,13 +2,9 @@
 
  Here are all the things I learned about CSS3 and some practices applying what I've learned.
 
-<br>
-
 <p align='center'>
-  <img src="assets/css-course.gif" width="450px" style='border-radius:5px;'>
+  <img src="assets/css-course.gif" width="580px" style='border-radius:10px;'>
 </p>
-
-<br>
 
 ### 🔗 Connect with me
 ---
